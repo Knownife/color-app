@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3af18e5a-e551-423c-b813-3ed9c7acd2d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/ColorPicker/colorPicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ColorPicker/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ColorPicker/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +42,7 @@
     "nodejs_interpreter_path": "/home/knownife/.asdf/installs/nodejs/21.6.2/bin/node",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "/snap/webstorm/369/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -50,7 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1711541130293</updated>
       <workItem from="1711541131415" duration="963000" />
-      <workItem from="1711542765405" duration="1407000" />
+      <workItem from="1711542765405" duration="2653000" />
+      <workItem from="1711548242651" duration="1226000" />
     </task>
     <servers />
   </component>
